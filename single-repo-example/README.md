@@ -1,3 +1,3 @@
-single-repo-Example
+single-repo-example
 ==============
 
